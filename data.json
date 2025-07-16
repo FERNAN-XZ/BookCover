@@ -1,6 +1,12 @@
 {
   "books": [
         {
+      "key": 41000118518,
+      "id": "41000118518",
+      "title": "Drama China Dalam Pelukan yang Salah",
+      "content": "Selama ini Lia hanya fokus mengejar Hardi selama bertahun-tahun, dirinya sudah sering dipermalukan oleh pria tersebut, tapi Lia akan selalu kembali padanya. Sampai pada suatu hari, Lia pun mengalami amnesia dan satu-satunya yang dilupakan hanya pria yang sudah dia cintai selama tujuh tahun. Orang-orang pun mengira hal ini akan menjadi pelepasan baginya. Namun, di luar perkiraan semua orang, Hardi malah mulai mengejar Lia mati-matian dan berusaha pulihkan ingatannya.",
+      "thumb": "https://i.pinimg.com/736x/34/31/92/343192d07a64e148dce283c58bee7749.jpg"},
+        {
       "key": 41000108588,
       "id": "41000108588",
       "title": "Dalam Jebakan Hasrat",
